@@ -1,0 +1,25 @@
+{
+  "name": "qr_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenSony/qr-code.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenSony/qr-code.js/issues"
+  },
+  "homepage": "https://github.com/AlenSony/qr-code.js#readme",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^12.7.0",
+    "qr-image": "^3.2.0"
+  }
+}
